@@ -2,7 +2,7 @@
     "name" : "configure",
     "main" : "./main.js",
     "description" : "A simple multiple-configuration management module.",
-    "version" : "0.0.1",
+    "version" : "1.0.0",
     "author" : "Randolpho St. John",
     "bugs" : "https://github.com/randolpho/node-configure/issues",
     "repository" : {
